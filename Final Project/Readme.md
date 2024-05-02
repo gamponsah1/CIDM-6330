@@ -1,4 +1,0 @@
-# CIDM 6330 Final Project
-
-This is an elearning platform  designed to facilitate learning across various computing disciplines. Built using the Django framework, the platform serves as a comprehensive resource for individuals seeking to enhance their skills in machine learning, software engineering, data analytics, and Python programming. Each course within the platform offers a curated curriculum tailored to equip learners with practical knowledge and expertise in their chosen field.
-To access the platform, users can sign up for an account by visiting http://127.0.0.1:8000/catalog/signup/. Once registered, they can navigate to the home page at http://127.0.0.1:8000/catalog/ to enjoy personalized learning experiences and gain access to a wealth of course materials
